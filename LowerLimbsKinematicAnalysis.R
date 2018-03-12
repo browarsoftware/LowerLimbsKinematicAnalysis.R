@@ -1,3 +1,4 @@
+#Starting file for the analysis
 #Change path here
 source("f:\\mocap_real_sizes\\karate\\sr1\\renderactor.R")
 source("f:\\mocap_real_sizes\\karate\\sr1\\rotatedata.R")
